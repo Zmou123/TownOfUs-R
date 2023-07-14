@@ -1,1 +1,3 @@
-# TownOfUs-R  I'm just a student from China, so there are probably a lot of bugs in my code,This module is a fork of TownOfUs.v4.0.6,目前只有中文
+我只是一名来自中国的学生,所以我的代码中可能会有很多的错误
+此模组是TownOfUs-R.v4.0.6的分支模组
+这个模组还未正式开发
